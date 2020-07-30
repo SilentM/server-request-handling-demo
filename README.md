@@ -1,3 +1,3 @@
 # server-request-handling-demo
 
-run the command "node app.js" from terminal
+Utilizes Node.js. Run the command "node app.js" from terminal
